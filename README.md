@@ -1,5 +1,7 @@
 ### Hi there 👋
+Meu nome é Pedro
 
+Estou estudando na Alura
 <!--
 **PedroOliveiraa/PedroOliveiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
